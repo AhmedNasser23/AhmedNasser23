@@ -72,5 +72,3 @@
 - 🗣️ **English**: Limited working proficiency  
 
 ---
-
-### 🚀 Let’s connect and build something amazing together!  
