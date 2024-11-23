@@ -1,7 +1,7 @@
 
 # 🌟 Welcome to Ahmed Nasser's Profile! 👋  
 
-## 🖥️ Aspiring .NET Backend Developer  
+## 🖥️ Aspiring .NET Backend Developer - Former iOS Intern at Banque Misr
 
 💼 **A passionate third-year Computer Science student** dedicated to solving complex problems and building efficient, real-world applications. My focus lies in **back-end development** with **.NET technologies**, and I am always striving to improve my software development skills.  
 
