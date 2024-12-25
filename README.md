@@ -5,12 +5,14 @@
 
 💼 **Hardworking and active computer science student** with a strong foundation in programming, problem-solving, and software development. Passionate about leveraging technology to craft efficient, real-world applications while continually learning and growing as a developer.  
 
-🎓 **Cairo University**  
-📚 Bachelor’s in Computer Science (Oct 2022 – Present)
+# Education
 
-**Relevant Courses:** Discrete Mathematics, Logic Design, Algorithms, Advanced Data Structures, Computer
-Organization and Architecture, Operating Systems.
+🎓 **Cairo University**  
+📚 **Bachelor’s in Computer Science**  
+🗓️ **October 2022 – Present**  
 🎯 **GPA:** 3.38 (Very Good)  
+
+**Relevant Courses:** Discrete Mathematics, Logic Design, Algorithms, Advanced Data Structures, Computer Organization and Architecture, Operating Systems
 
 ---
 
