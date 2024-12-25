@@ -26,7 +26,7 @@
 ## 📚 **Technical Skills**  
 
 ### **👨‍💻 Programming Languages**  
-- 🟢 **C/C++** | 🟣 **Swift** | 🔵 **C#** | 🟡 **Python** | 🔴 **Java**  
+- 🟢 **C/C++** | 🟣 **Swift** | 🔵 **C#** | 🟡 **Python** | 🔴 **Java** | 🔵 **MIPS Assembly**
 
 ### **🌐 Web Development**  
 - 🌟 **HTML** | 🎨 **CSS** | 🟠 **JavaScript** | 🟦 **ASP.NET MVC** | 🟪 **Spring Boot**  
