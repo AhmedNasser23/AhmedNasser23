@@ -12,7 +12,7 @@
 🗓️ **October 2022 – Present**  
 🎯 **GPA:** 3.38 (Very Good)  
 
-**Relevant Courses:** Discrete Mathematics, Logic Design, Algorithms, Advanced Data Structures, Computer Organization and Architecture, Operating Systems
+**Relevant Courses:** Discrete Mathematics, Logic Design, Algorithms, Advanced Data Structures, Computer Organization and Architecture, Operating Systems.
 
 ---
 
