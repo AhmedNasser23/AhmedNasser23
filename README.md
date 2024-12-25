@@ -7,6 +7,7 @@
 
 🎓 **Cairo University**  
 📚 Bachelor’s in Computer Science (Oct 2022 – Present)
+
 **Relevant Courses:** Discrete Mathematics, Logic Design, Algorithms, Advanced Data Structures, Computer
 Organization and Architecture, Operating Systems.
 🎯 **GPA:** 3.38 (Very Good)  
