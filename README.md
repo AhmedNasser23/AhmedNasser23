@@ -1,8 +1,9 @@
-# 🌟 Welcome to Ahmed Nasser's Profile! 👋
 
-## 🖥️ Aspiring .NET Backend Developer | Former iOS Intern at Banque Misr  
+# 🌟 Senior Computer Science Student at FCAI-Cairo University - Former iOS Intern at Banque Misr 👋  
 
-💼 **A passionate third-year Computer Science student** dedicated to solving complex problems and building efficient, real-world applications. My focus is on **back-end development** using **.NET technologies**, and I am continually improving my skills in software engineering and problem-solving.  
+## 🖥️ Welcome to My Profile!  
+
+💼 **Hardworking and active computer science student** with a strong foundation in programming, problem-solving, and software development. Passionate about leveraging technology to craft efficient, real-world applications while continually learning and growing as a developer.  
 
 🎓 **Cairo University**  
 📚 Bachelor’s in Computer Science (Oct 2022 – Jun 2026)  
@@ -14,11 +15,11 @@
 
 ### 🛠 **iOS Intern at Banque Misr**  
 📅 **(Aug 2024 – Sep 2024)**  
-- 🚀 Developed proficiency in **Swift**, including advanced features like closures, protocols, and error handling.  
-- 🖌 Designed and implemented responsive user interfaces using **UIKit**, **AutoLayout**, and view controllers.  
-- 🌐 Integrated RESTful APIs using **Alamofire** for seamless data communication.  
-- 🏗️ Practiced **MVC** and **MVP** design patterns to structure scalable codebases.  
-- 📦 Managed dependencies using **CocoaPods** and **Swift Package Manager** for efficient library integration.  
+- 🚀 Advanced skills in **Swift**, including closures, protocols, and error handling.  
+- 🖌 Built responsive interfaces with **UIKit**, **AutoLayout**, and view controllers.  
+- 🌐 Integrated RESTful APIs using **Alamofire** for efficient data handling.  
+- 🏗️ Gained hands-on experience with **MVC** and **MVP** architectural patterns.  
+- 📦 Managed dependencies using **CocoaPods** and **Swift Package Manager**.  
 
 ---
 
@@ -28,7 +29,7 @@
 - 🟢 **C/C++** | 🟣 **Swift** | 🔵 **C#** | 🟡 **Python** | 🔴 **Java**  
 
 ### **🌐 Web Development**  
-- 🌟 **HTML** | 🎨 **CSS** | 🟠 **JavaScript** | 🟦 **ASP.NET MVC** | 🌐 **ASP.NET Web API**  
+- 🌟 **HTML** | 🎨 **CSS** | 🟠 **JavaScript** | 🟦 **ASP.NET MVC** | 🟪 **Spring Boot**  
 
 ### **⚙️ Development Principles**  
 - 📐 **OOP** | 🎯 **SOLID Principles** | 🧩 **Design Patterns**  
@@ -40,19 +41,18 @@
 
 ## 🛠️ **Projects**  
 
-### **💳 Speedo Transfer**  
-A **mobile money transfer application** designed to facilitate secure and convenient financial transactions.  
+### **📚 E-Learning Management System**  
+A **web-based Learning Management System API** designed to facilitate course and user management.  
 
 #### Key Features:  
-- User-friendly interface for managing accounts and viewing transaction history.  
-- Secure user authentication and profile management.  
-- Real-time fund transfers with recipient verification via APIs.  
-- Sub-accounts for budgeting and transaction categorization.  
-- Inactivity alerts and robust error handling for a smooth user experience.  
+- Role-based access control for admins, instructors, and students.  
+- Dynamic course creation and enrollment management.  
+- Notification system for updates and performance tracking.  
 
 #### Technologies Used:  
-- iOS Development: **Swift**, **Xcode**, **UIKit**  
-- Backend Integration: **REST APIs**, **JSON Parsing**  
+- Backend: **Java**, **Spring Boot**  
+- Database: **SQLite**  
+- Tools: **Git**, **REST APIs**  
 
 ---
 
@@ -60,27 +60,12 @@ A **mobile money transfer application** designed to facilitate secure and conven
 A **Windows Forms application** built for managing banking operations.  
 
 #### Key Features:  
-- Create, read, update, and delete (CRUD) customer, bank, branch, loan data entries.
-- Provide option to display simple reports.
+- CRUD operations for customer, bank, branch, and loan data entries.  
+- Basic reporting for streamlined data management.  
 
 #### Technologies Used:  
 - Frontend: **Windows Forms**, **C#**  
-- Database: **SQL Server**  
-
----
-
-### **🎮 Game Zone**  
-A **web application** designed to help users manage a video game database efficiently.  
-
-#### Key Features:  
-- Create, read, update, and delete (CRUD) game data.    
-- Simple and intuitive UI for smooth user experience.  
-
-#### Technologies Used:  
-- Frontend: **HTML**, **CSS**, **Bootstrap**  
-- Backend: **ASP.NET MVC**, **C#**  
-- Database: **Entity Framework Core**, **SQL Server**  
-- Tools: **LINQ** for database querying and **Git** for version control  
+- Database: **SQL Server**
 
 ---
 
@@ -103,6 +88,6 @@ A **web application** designed to help users manage a video game database effici
 ## 🗣️ **Languages**  
 
 - 🌍 **Arabic**: Native  
-- 🗣️ **English**: Working Proficiency  
+- 🗣️ **English**: Limited Working Proficiency  
 
 ---
