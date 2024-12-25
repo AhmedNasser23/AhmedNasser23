@@ -76,15 +76,6 @@ A **Windows Forms application** built for managing banking operations.
 
 ---
 
-## 📈 **GitHub Stats**  
-
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedNasser23&show_icons=true&theme=radical" alt="Ahmed's GitHub Stats" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedNasser23&layout=compact&theme=radical" alt="Top Languages" />  
-</p>  
-
----
-
 ## 🗣️ **Languages**  
 
 - 🌍 **Arabic**: Native  
