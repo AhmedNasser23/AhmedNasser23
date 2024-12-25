@@ -33,6 +33,7 @@
 
 ### **⚙️ Development Principles**  
 - 📐 **OOP** | 🎯 **SOLID Principles** | 🧩 **Design Patterns**  
+- 🛢️ **Relational Database Concepts**, **ER Modeling**, **SQL**, **Normalization**
 
 ### **🛠️ Tools & Libraries**  
 - 📂 **Git** | 🍫 **CocoaPods** | 🚀 **Swift Package Manager** | 🔍 **LINQ** | 🟩 **Entity Framework Core**  
