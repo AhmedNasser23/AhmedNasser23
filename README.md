@@ -69,6 +69,20 @@ A **Windows Forms application** built for managing banking operations.
 
 ---
 
+### **📐 Numbering System Converter**  
+A robust assembly program designed to facilitate conversions between numbering systems (binary, octal, decimal, and hexadecimal).  
+
+#### **Key Features:**  
+- Accepts user input for the current number, its base, and the desired output base.  
+- Provides accurate conversions between any two numbering systems.
+- Includes input validation to ensure correct data entry for the chosen numbering system.  
+
+#### **Technologies Used:**  
+- **MIPS Assembly Language**  
+- **MARS Simulator**  
+
+---
+
 ## 🌐 **Connect with Me**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Nasser-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-nasser-91aab6279)  
