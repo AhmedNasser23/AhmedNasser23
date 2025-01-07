@@ -1,5 +1,5 @@
 
-# 🌟 Senior Computer Science Student at FCAI-Cairo University - Former iOS Intern at Banque Misr 👋  
+# 🌟 Computer Science Student - Former iOS Intern at Banque Misr 👋  
 
 ## 🖥️ Welcome to My Profile!  
 
@@ -31,7 +31,7 @@
 ## 📚 **Technical Skills**  
 
 ### **👨‍💻 Programming Languages**  
-- 🟢 **C/C++** | 🟣 **Swift** | 🔵 **C#** | 🟡 **Python** | 🔴 **Java** | 🔵 **MIPS Assembly**
+- 🟢 **C** | 🟢 **C++** | 🟣 **Swift** | 🔵 **C#** | 🟡 **Python** | 🔴 **Java** | 🔵 **MIPS Assembly**
 
 ### **🌐 Web Development**  
 - 🌟 **HTML** | 🎨 **CSS** | 🟠 **JavaScript** | 🟦 **ASP.NET MVC** | 🟪 **Spring Boot**  
