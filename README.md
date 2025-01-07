@@ -78,7 +78,7 @@ A **web-based Learning Management System API** designed to manage courses, users
 #### Technologies Used:
 - Backend: **Java**, **Spring Boot**  
 - Database: **SQLite**  
-- Tools: **Git**, **REST APIs**
+- Tools: **Git**, **Postman**
 
 ---
 
@@ -120,4 +120,3 @@ A robust **assembly program** designed to convert between multiple numbering sys
 
 - 🌍 **Arabic**  
 - 🗣️ **English**
-"""
