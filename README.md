@@ -1,6 +1,3 @@
-# Creating a README file with the provided content
-
-readme_content = """
 # 🌟 **Computer Science Student - Former iOS Intern at Banque Misr** 👋
 
 ## 🖥️ **Welcome to My Profile!**
