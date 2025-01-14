@@ -1,4 +1,4 @@
-# 🌟 **Computer Science Student - Former iOS Intern at Banque Misr** 👋
+# 🌟**Computer Science Student - Former iOS Intern @ Banque Misr**👋
 
 ## 🖥️ **Welcome to My Profile!**
 
