@@ -48,7 +48,7 @@
 
 ## 🛠️ **Projects**
 
-### **📚 BazzarBook (Ongoing)**  
+### **📚 BazzarBook **  
 A comprehensive **e-commerce web application** designed to facilitate online book sales, featuring a responsive user interface and secure payment integration.  
 
 #### Key Features:
