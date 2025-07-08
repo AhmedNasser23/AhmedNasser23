@@ -1,8 +1,12 @@
-# 🌟**Computer Science Student - AI/ML Enthusiast**👋
+
+# 🌟 **Senior Computer Science Student - AI/ML Enthusiast** 👋
+
+![Banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ## 🖥️ **Welcome to My Profile!**
 
-💼 **Passionate and hardworking Computer Science student** with a strong programming, problem-solving, and software development foundation. Passionate about leveraging technology to craft efficient, real-world applications while continually learning and growing as a developer.
+💼 **Passionate and hardworking Computer Science student** with a strong foundation in programming, problem-solving, and software development. I thrive on building efficient, scalable, and impactful applications and am deeply interested in AI and Machine Learning.
+
 
 ---
 
@@ -11,9 +15,10 @@
 **Cairo University**  
 📚 **Bachelor’s in Computer Science**  
 🗓️ **October 2022 – Present**  
-🎯 **GPA**: 3.38 (Very Good)
+🎯 **GPA**: 3.24 (Very Good)
 
-**Relevant Courses**: Discrete Mathematics, Logic Design, Algorithms, Advanced Data Structures, Computer Organization and Architecture, Operating Systems.
+**Relevant Courses**:  
+`Discrete Mathematics`, `Logic Design`, `Algorithms`, `Advanced Data Structures`, `Operating Systems`, `Computer Architecture`
 
 ---
 
@@ -21,89 +26,97 @@
 
 ### 🛠 **iOS Intern at Banque Misr**  
 📅 **(Aug 2024 – Sep 2024)**  
-- 🚀 Advanced proficiency in **Swift**, working with closures, protocols, and error handling.  
-- 🖌 Developed responsive UIs with **UIKit**, **AutoLayout**, and view controllers.  
-- 🌐 Integrated **RESTful APIs** using **Alamofire** for seamless data handling and communication.  
-- 🏗️ Gained hands-on experience with **MVC** and **MVP** architectural patterns.  
-- 📦 Managed project dependencies using **CocoaPods** and **Swift Package Manager**.
+- 🚀 Developed complex Swift functionalities using closures, generics, and protocols.
+- 🖌 Built responsive UIs with **UIKit**, **AutoLayout**, navigation controllers, and view lifecycle management.
+- 🌐 Integrated with REST APIs using **Alamofire** for dynamic content loading and secure communication.
+- 🏗️ Worked on structured app architecture using **MVC** and **MVP** patterns.
+- 📦 Managed third-party dependencies via **CocoaPods** and **Swift Package Manager**.
 
 ---
 
 ## 📚 **Technical Skills**
 
-### **👨‍💻 Programming Languages**
-- 🟢 **C**, 🟢 **C++**, 🟣 **Swift**, 🔵 **C#**, 🟡 **Python**, 🔴 **Java**, 🔵 **MIPS Assembly**
+### 👨‍💻 Programming Languages  
+C, C++, C#, Java, Python, Swift, MIPS Assembly
 
-### **🌐 Web Development**
-- 🌟 **HTML**, 🎨 **CSS**, 🟠 **JavaScript**, 🟦 **ASP.NET MVC**, 🟪 **Spring Boot**
+### 🌐 Web Development  
+HTML, CSS, JavaScript, ASP.NET MVC, Spring Boot
 
-### **⚙️ Development Principles**
-- 📐 **OOP**, 🎯 **SOLID Principles**, 🧩 **Design Patterns**  
-- 🛢️ **Relational Database Design**, **ER Modeling**, **SQL**, **Normalization**
+### ⚙️ Core Concepts  
+OOP, SOLID, Design Patterns, SQL, ER Modeling, Normalization, Problem Solving
 
-### **🛠️ Tools & Libraries**
-- 📂 **Git**, 🍫 **CocoaPods**, 🚀 **Swift Package Manager**, 🔍 **LINQ**, 🟩 **Entity Framework Core**
+### 🛠 Tools & Libraries  
+Git, LINQ, Entity Framework Core, CocoaPods, Postman, MARS
 
 ---
 
 ## 🛠️ **Projects**
 
-### **📚 BazzarBook **  
-A comprehensive **e-commerce web application** designed to facilitate online book sales, featuring a responsive user interface and secure payment integration.  
+### 📚 **BazzarBook – Bookstore E-commerce Web App**  
+A fully-functional **e-commerce platform for books**, offering a seamless shopping experience with user and admin dashboards.
 
-#### Key Features:
-- Role-based user authentication with distinct permissions for customers and admins.  
-- Product catalog browsing, shopping cart functionality, and order tracking.  
-- Integrated **Stripe** payment gateway for secure transactions.  
-- Scalable design with a focus on performance optimization.
+#### 🔍 Features:
+- 📦 Real-time book inventory, categorized browsing, search functionality.
+- 🛒 Shopping cart with quantity adjustment and wishlist saving.
+- 👥 User roles: Admins manage inventory, customers purchase books.
+- 💳 Stripe payment gateway with receipt generation.
+- 📊 Admin dashboard with order status tracking and product management.
 
-#### Technologies Used:
-- Backend: **C#**, **ASP.NET Core MVC**, **Entity Framework Core**  
-- Database: **SQL Server**  
-- Frontend: **HTML**, **CSS**, **JavaScript**, **Bootstrap**
-
----
-
-### **📚 E-Learning Management System**  
-A **web-based Learning Management System API** designed to manage courses, users, and performance tracking.  
-
-#### Key Features:
-- Role-based access control for admins, instructors, and students.  
-- Dynamic course creation, student enrollment, and automated notifications.  
-- Robust system for performance tracking and assessment management.
-
-#### Technologies Used:
-- Backend: **Java**, **Spring Boot**  
-- Database: **SQLite**  
-- Tools: **Git**, **Postman**
+#### 🔧 Tech Stack:
+- ASP.NET Core MVC, C#, Entity Framework Core  
+- SQL Server, Bootstrap, HTML, CSS, JavaScript  
+- Stripe API for payments
 
 ---
 
-### **💼 Bank's Database Management System**  
-A **Windows Forms application** built for managing banking operations like customer data, loan management, and financial transactions.  
+### 🎓 **E-Learning Management System API**  
+A RESTful web API to manage online learning content, assignments, and performance data.
 
-#### Key Features:
-- CRUD operations for customer accounts, bank branches, and loan records.  
-- Simplified data reporting and management features for banking personnel.  
-- Ensured data consistency with strong database integration.
+#### 🔍 Features:
+- 🎯 Role-based access for admins, instructors, and students.
+- 📚 CRUD APIs for managing users, courses, enrollments.
+- 🧠 Performance tracking for students with auto-grade reports.
+- 📬 Automated notifications for new enrollments and submissions.
 
-#### Technologies Used:
-- Frontend: **Windows Forms**, **C#**  
-- Database: **SQL Server**
+#### 🔧 Tech Stack:
+- Java, Spring Boot, SQLite, Postman, Git
 
 ---
 
-### **📐 Numbering System Converter**  
-A robust **assembly program** designed to convert between multiple numbering systems (binary, octal, decimal, hexadecimal).  
+### 💼 **Bank's Database Management System**  
+A desktop-based internal application for **banking personnel** to manage customers, branches, loans, and financial transactions.
 
-#### Key Features:
-- Converts numbers between various bases with user-defined input.  
-- Input validation ensures accurate conversions and prevents errors.  
-- Designed to work efficiently within an assembly environment.
+#### 🔍 Features:
+- 📝 CRUD operations for clients, accounts, loans, branches.
+- 📊 Integrated reporting system with tabular summaries.
+- ✅ Form validations, real-time field checks, and record filtering.
+- 🔐 Access-level permissions for different staff roles.
 
-#### Technologies Used:
-- **MIPS Assembly Language**  
-- **MARS Simulator**
+#### 🔧 Tech Stack:
+- Windows Forms, C#, SQL Server
+
+---
+
+### 🧮 **Numbering System Converter**  
+An educational tool written in MIPS assembly to convert between **binary**, **octal**, **decimal**, and **hexadecimal** systems.
+
+#### 🔍 Features:
+- 📥 User input and interactive prompts via console.
+- 🔃 Real-time base conversion with optimized registers.
+- 🚫 Validation checks and error feedback.
+- ⚙️ Efficient loop and arithmetic handling in low-level code.
+
+#### 🔧 Tech Stack:
+- MIPS Assembly, MARS Simulator
+
+---
+
+## 📈 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedNasser23&show_icons=true&theme=tokyonight" width="450">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedNasser23&theme=tokyonight" width="400">
+</p>
 
 ---
 
@@ -115,5 +128,5 @@ A robust **assembly program** designed to convert between multiple numbering sys
 
 ## 🗣️ **Languages**
 
-- 🌍 **Arabic**  
+- 🌍 **Arabic**
 - 🗣️ **English**
