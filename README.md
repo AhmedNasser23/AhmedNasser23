@@ -1,7 +1,8 @@
-
-# 🌟 **Senior Computer Science Student - AI/ML Enthusiast** 👋
-
-![Banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<h1 align="center">
+  Hi, I'm Ahmed Nasser 👋  
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&color=00F7FF&width=450&lines=Computer+Science+Student;AI+%2F+ML+Enthusiast;Aspiring+Backend+.NET+Developer" alt="Typing SVG" />
+</h1>
 
 ## 🖥️ **Welcome to My Profile!**
 
