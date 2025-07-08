@@ -1,133 +1,131 @@
-<h1 align="center">
-  Hi, I'm Ahmed Nasser 👋  
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&color=00F7FF&width=450&lines=Senior+Computer+Science+Student;AI+%2F+ML+Enthusiast" alt="Typing SVG" />
-</h1>
+# 🌟 **Ahmed Nasser**  
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&center=true&vCenter=true&color=00F7FF&width=450&lines=Senior+Computer+Science+Student;AI+%26+ML+Enthusiast" alt="Typing SVG" />
+</div>
 
-## 🖥️ **Welcome to My Profile!**
+---
 
-💼 **Passionate and hardworking Computer Science student** with a strong foundation in programming, problem-solving, and software development. I thrive on building efficient, scalable, and impactful applications and am deeply interested in AI and Machine Learning.
+## 👨‍💻 **About Me**
 
+I'm a **passionate Computer Science student** at Cairo University, driven by a love for **problem-solving**, **software development**, and cutting-edge technologies like **AI and Machine Learning**. I specialize in crafting **scalable applications** with clean, efficient code and thrive in collaborative, innovative environments.
 
 ---
 
 ## 🎓 **Education**
 
-**Cairo University**  
+### **Cairo University**  
 📚 **Bachelor’s in Computer Science**  
-🗓️ **October 2022 – Present**  
+🗓️ **Oct 2022 – Present**  
 🎯 **GPA**: 3.24 (Very Good)
 
-**Relevant Courses**:  
-`Discrete Mathematics`, `Logic Design`, `Algorithms`, `Advanced Data Structures`, `Operating Systems`, `Computer Architecture`
+**Key Courses**:  
+- Discrete Mathematics  
+- Logic Design  
+- Algorithms & Advanced Data Structures  
+- Operating Systems  
+- Computer Architecture  
 
 ---
 
 ## 💼 **Professional Experience**
 
-### 🛠 **iOS Intern at Banque Misr**  
-📅 **(Aug 2024 – Sep 2024)**  
-- 🚀 Developed complex Swift functionalities using closures, generics, and protocols.
-- 🖌 Built responsive UIs with **UIKit**, **AutoLayout**, navigation controllers, and view lifecycle management.
-- 🌐 Integrated with REST APIs using **Alamofire** for dynamic content loading and secure communication.
-- 🏗️ Worked on structured app architecture using **MVC** and **MVP** patterns.
-- 📦 Managed third-party dependencies via **CocoaPods** and **Swift Package Manager**.
+### **iOS Intern**  
+🏢 **Banque Misr**  
+📅 **Aug 2024 – Sep 2024**
+
+- 🚀 Developed advanced **Swift** features using closures, generics, and protocols.  
+- 🎨 Designed responsive **UIKit** interfaces with AutoLayout, navigation controllers, and lifecycle management.  
+- 🌐 Integrated **REST APIs** using **Alamofire** for secure, dynamic data handling.  
+- 🏗️ Implemented **MVC** and **MVP** architectures for modular, maintainable codebases.  
+- 📦 Managed dependencies with **CocoaPods** and **Swift Package Manager**.
 
 ---
 
-## 📚 **Technical Skills**
+## 🛠️ **Technical Skills**
 
-### 👨‍💻 Programming Languages  
-C, C++, C#, Java, Python, Swift, MIPS Assembly
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</div>
 
-### 🌐 Web Development  
-HTML, CSS, JavaScript, ASP.NET MVC, Spring Boot
-
-### ⚙️ Core Concepts  
-OOP, SOLID, Design Patterns, SQL, ER Modeling, Normalization, Problem Solving
-
-### 🛠 Tools & Libraries  
-Git, LINQ, Entity Framework Core, CocoaPods, Postman, MARS
+### **Core Competencies**  
+- **Programming**: OOP, SOLID Principles, Design Patterns  
+- **Databases**: SQL, ER Modeling, Normalization  
+- **Web Development**: ASP.NET MVC, Spring Boot  
+- **Tools**: Git, LINQ, Entity Framework Core, Postman, CocoaPods, MARS  
 
 ---
 
-## 🛠️ **Projects**
+## 🚀 **Projects**
 
-### 📚 **BazzarBook – Bookstore E-commerce Web App**  
-A fully-functional **e-commerce platform for books**, offering a seamless shopping experience with user and admin dashboards.
+### 📚 **BazzarBook – Bookstore E-commerce Platform**  
+A feature-rich **e-commerce web app** for book lovers with seamless user and admin experiences.
 
-#### 🔍 Features:
-- 📦 Real-time book inventory, categorized browsing, search functionality.
-- 🛒 Shopping cart with quantity adjustment and wishlist saving.
-- 👥 User roles: Admins manage inventory, customers purchase books.
-- 💳 Stripe payment gateway with receipt generation.
-- 📊 Admin dashboard with order status tracking and product management.
+- **Features**:  
+  - 📦 Real-time inventory with categorized browsing and search.  
+  - 🛒 Dynamic shopping cart and wishlist functionality.  
+  - 💳 Secure payments via **Stripe** with receipt generation.  
+  - 📊 Admin dashboard for order tracking and inventory management.  
 
-#### 🔧 Tech Stack:
-- ASP.NET Core MVC, C#, Entity Framework Core  
-- SQL Server, Bootstrap, HTML, CSS, JavaScript  
-- Stripe API for payments
+- **Tech Stack**: ASP.NET Core MVC, C#, Entity Framework Core, SQL Server, Bootstrap, Stripe API  
 
 ---
 
 ### 🎓 **E-Learning Management System API**  
-A RESTful web API to manage online learning content, assignments, and performance data.
+A **RESTful API** for managing online courses, assignments, and student performance.
 
-#### 🔍 Features:
-- 🎯 Role-based access for admins, instructors, and students.
-- 📚 CRUD APIs for managing users, courses, enrollments.
-- 🧠 Performance tracking for students with auto-grade reports.
-- 📬 Automated notifications for new enrollments and submissions.
+- **Features**:  
+  - 🎯 Role-based access for admins, instructors, and students.  
+  - 📚 CRUD operations for courses, users, and enrollments.  
+  - 🧠 Auto-graded assignments with performance reports.  
+  - 📬 Automated notifications for enrollments and submissions.  
 
-#### 🔧 Tech Stack:
-- Java, Spring Boot, SQLite, Postman, Git
+- **Tech Stack**: Java, Spring Boot, SQLite, Postman, Git  
 
 ---
 
-### 💼 **Bank's Database Management System**  
-A desktop-based internal application for **banking personnel** to manage customers, branches, loans, and financial transactions.
+### 💼 **Bank Database Management System**  
+A **desktop app** for banking staff to manage clients, accounts, and transactions.
 
-#### 🔍 Features:
-- 📝 CRUD operations for clients, accounts, loans, branches.
-- 📊 Integrated reporting system with tabular summaries.
-- ✅ Form validations, real-time field checks, and record filtering.
-- 🔐 Access-level permissions for different staff roles.
+- **Features**:  
+  - 📝 CRUD operations for accounts, loans, and branches.  
+  - 📊 Tabular reporting with real-time data filtering.  
+  - 🔐 Role-based access and form validations.  
 
-#### 🔧 Tech Stack:
-- Windows Forms, C#, SQL Server
+- **Tech Stack**: Windows Forms, C#, SQL Server  
 
 ---
 
 ### 🧮 **Numbering System Converter**  
-An educational tool written in MIPS assembly to convert between **binary**, **octal**, **decimal**, and **hexadecimal** systems.
+An **educational tool** for converting between binary, octal, decimal, and hexadecimal.
 
-#### 🔍 Features:
-- 📥 User input and interactive prompts via console.
-- 🔃 Real-time base conversion with optimized registers.
-- 🚫 Validation checks and error feedback.
-- ⚙️ Efficient loop and arithmetic handling in low-level code.
+- **Features**:  
+  - 📥 Interactive console-based input.  
+  - 🔃 Real-time conversions with optimized register usage.  
+  - 🚫 Input validation and error handling.  
 
-#### 🔧 Tech Stack:
-- MIPS Assembly, MARS Simulator
-
----
-
-## 📈 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedNasser23&show_icons=true&theme=tokyonight" width="450">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedNasser23&theme=tokyonight" width="400">
-</p>
+- **Tech Stack**: MIPS Assembly, MARS Simulator  
 
 ---
 
 ## 🌐 **Connect with Me**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Nasser-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-nasser-91aab6279)
+<div align="center">
+  <a href="https://linkedin.com/in/ahmed-nasser-91aab6279">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
 
 ---
 
 ## 🗣️ **Languages**
 
-- 🌍 **Arabic**
-- 🗣️ **English**
+- **Arabic**
+- **English**
