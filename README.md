@@ -16,7 +16,7 @@ I'm a **passionate Computer Science student** at Cairo University, driven by a l
 ### **Cairo University**  
 📚 **Bachelor’s in Computer Science**  
 🗓️ **Oct 2022 – Present**  
-🎯 **GPA**: 3.24 (Very Good)
+🎯 **GPA**: 3.26 (Very Good)
 
 **Key Courses**:  
 - Discrete Mathematics  
