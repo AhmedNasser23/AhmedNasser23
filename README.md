@@ -3,10 +3,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Ahmed+Nasser+Hemdan;Computer+Science+Student+%F0%9F%8E%93;Machine+Learning+Enthusiast+%F0%9F%A4%96;Backend+Developer+%E2%9A%99%EF%B8%8F" alt="Typing SVG" /> 
  
 <p align="center"> 
-  <img src="https://img.shields.io/badge/Location-Giza%2C%20Egypt-6366F1?style=flat-square&logo=google-maps&logoColor=white" /> 
-</p> 
- 
-<p align="center"> 
   <a href="mailto:ahmadhemdan280@gmail.com"> 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
   </a> 
