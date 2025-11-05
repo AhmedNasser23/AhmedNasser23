@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Giza%2C%20Egypt-6366F1?style=flat-square&logo=google-maps&logoColor=white" />
   <img src="https://img.shields.io/badge/Phone-%2B20%20115%20509%208664-10B981?style=flat-square&logo=whatsapp&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=AhmedNasser23&color=6366F1&style=flat-square&label=Profile+Views" />
 </p>
 
 <p align="center">
@@ -14,9 +13,6 @@
   </a>
   <a href="https://www.linkedin.com/in/ahmed-nasser-91aab6279/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/AhmedNasser23">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
