@@ -1,131 +1,91 @@
-# 🌟 **Ahmed Nasser**  
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&center=true&vCenter=true&color=00F7FF&width=450&lines=Senior+Computer+Science+Student;AI+%26+ML+Enthusiast" alt="Typing SVG" />
-</div>
+# 👋 Hey there, I'm **Ahmed Hemdan**
+
+🎯 *Machine Learning Engineer & Back-End Developer in Progress*  
+💡 Passionate about building intelligent systems and scalable back-end architectures  
 
 ---
 
-## 👨‍💻 **About Me**
-
-I'm a **passionate Computer Science student** at Cairo University, driven by a love for **problem-solving**, **software development**, and cutting-edge technologies like **AI and Machine Learning**. I specialize in crafting **scalable applications** with clean, efficient code and thrive in collaborative, innovative environments.
-
----
-
-## 🎓 **Education**
-
-### **Cairo University**  
-📚 **Bachelor’s in Computer Science**  
-🗓️ **Oct 2022 – Present**  
-🎯 **GPA**: 3.26 (Very Good)
-
-**Key Courses**:  
-- Discrete Mathematics  
-- Logic Design  
-- Algorithms & Advanced Data Structures  
-- Operating Systems  
-- Computer Architecture  
+### 🧠 About Me
+- 🎓 **Computer Science Student** at *Cairo University* (4th Year)  
+- 🤖 Exploring the intersection of **Machine Learning** and **Software Engineering**  
+- 🔍 Interested in **Computer Vision**, **APIs**, and **System Design**  
+- 💪 Focused on writing clean, efficient, and maintainable code  
+- 🌱 Currently learning **FastAPI**, **MLOps**, and **Deep Learning**  
 
 ---
 
-## 💼 **Professional Experience**
+### 🛠️ Tech Stack
 
-### **iOS Intern**  
-🏢 **Banque Misr**  
-📅 **Aug 2024 – Sep 2024**
+#### 💻 Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-- 🚀 Developed advanced **Swift** features using closures, generics, and protocols.  
-- 🎨 Designed responsive **UIKit** interfaces with AutoLayout, navigation controllers, and lifecycle management.  
-- 🌐 Integrated **REST APIs** using **Alamofire** for secure, dynamic data handling.  
-- 🏗️ Implemented **MVC** and **MVP** architectures for modular, maintainable codebases.  
-- 📦 Managed dependencies with **CocoaPods** and **Swift Package Manager**.
+#### 🧩 Frameworks & Libraries  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
----
-
-## 🛠️ **Technical Skills**
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-</div>
-
-### **Core Competencies**  
-- **Programming**: OOP, SOLID Principles, Design Patterns  
-- **Databases**: SQL, ER Modeling, Normalization  
-- **Web Development**: ASP.NET MVC, Spring Boot  
-- **Tools**: Git, LINQ, Entity Framework Core, Postman, CocoaPods, MARS  
+#### 🗄️ Databases & Tools  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 🚀 **Projects**
+### 🚀 Featured Projects
 
-### 📚 **BazzarBook – Bookstore E-commerce Platform**  
-A feature-rich **e-commerce web app** for book lovers with seamless user and admin experiences.
+#### 🧮 [Fandango Ratings Bias EDA (2015)](https://github.com/AhmedNasser23/Fandango-Ratings-Bias-EDA-2015)
+Exploratory Data Analysis project investigating potential bias in Fandango’s 2015 movie ratings using statistical and visual analysis.  
+**Tech:** Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook  
 
-- **Features**:  
-  - 📦 Real-time inventory with categorized browsing and search.  
-  - 🛒 Dynamic shopping cart and wishlist functionality.  
-  - 💳 Secure payments via **Stripe** with receipt generation.  
-  - 📊 Admin dashboard for order tracking and inventory management.  
+#### 🛍️ [BazzarBook – E-commerce Platform](https://github.com/AhmedNasser23/BazzarBook)
+A role-based e-commerce system with Stripe payment gateway integration and responsive UI.  
+**Tech:** ASP.NET Core MVC, SQL Server, Entity Framework Core  
 
-- **Tech Stack**: ASP.NET Core MVC, C#, Entity Framework Core, SQL Server, Bootstrap, Stripe API  
-
----
-
-### 🎓 **E-Learning Management System API**  
-A **RESTful API** for managing online courses, assignments, and student performance.
-
-- **Features**:  
-  - 🎯 Role-based access for admins, instructors, and students.  
-  - 📚 CRUD operations for courses, users, and enrollments.  
-  - 🧠 Auto-graded assignments with performance reports.  
-  - 📬 Automated notifications for enrollments and submissions.  
-
-- **Tech Stack**: Java, Spring Boot, SQLite, Postman, Git  
+#### 📰 [FastAPI Blog API](https://github.com/AhmedNasser23/FastAPI-Blog-API)
+A fully functional RESTful API with authentication, authorization, and Dockerized deployment.  
+**Tech:** FastAPI, PostgreSQL, SQLAlchemy, Alembic, Docker, Pytest  
 
 ---
 
-### 💼 **Bank Database Management System**  
-A **desktop app** for banking staff to manage clients, accounts, and transactions.
-
-- **Features**:  
-  - 📝 CRUD operations for accounts, loans, and branches.  
-  - 📊 Tabular reporting with real-time data filtering.  
-  - 🔐 Role-based access and form validations.  
-
-- **Tech Stack**: Windows Forms, C#, SQL Server  
-
----
-
-### 🧮 **Numbering System Converter**  
-An **educational tool** for converting between binary, octal, decimal, and hexadecimal.
-
-- **Features**:  
-  - 📥 Interactive console-based input.  
-  - 🔃 Real-time conversions with optimized register usage.  
-  - 🚫 Input validation and error handling.  
-
-- **Tech Stack**: MIPS Assembly, MARS Simulator  
-
----
-
-## 🌐 **Connect with Me**
+### 📈 GitHub Stats  
 
 <div align="center">
-  <a href="https://linkedin.com/in/ahmed-nasser-91aab6279">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+
+![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedNasser23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedNasser23&layout=compact&theme=tokyonight&hide_border=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AhmedNasser23&theme=tokyonight&hide_border=true)
+
 </div>
 
 ---
 
-## 🗣️ **Languages**
+### 🌐 Connect with Me
 
-- **Arabic**
-- **English**
+<p align="center">
+  <a href="mailto:ahmadhemdan280@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ahmed-nasser-91aab6279/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/AhmedNasser23"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+### ✨ Fun Fact
+> "I love exploring how data transforms into intelligent decisions through Machine Learning!"
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AhmedNasser23&style=for-the-badge&color=blueviolet" alt="profile views"/>
+</p>
+
+---
+
+⭐️ *From [Ahmed Hemdan](https://github.com/AhmedNasser23)*
