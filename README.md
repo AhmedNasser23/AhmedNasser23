@@ -54,9 +54,9 @@ Fourth-year **Computer Science student** at **Cairo University** with a strong p
   <img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=dark" /> 
 </p> 
  
-### Tools
+### Tools & Operating Systems
 <p> 
-  <img src="https://skillicons.dev/icons?i=git,postman,vscode,linux&theme=dark" /> 
+  <img src="https://skillicons.dev/icons?i=git,postman,vscode,linux, windows&theme=dark" /> 
 </p> 
 
 ### Computer Science Fundamentals & Design
