@@ -18,6 +18,8 @@
 ## 🚀 About Me 
  
 Fourth-year **Computer Science student** at **Cairo University** with a strong passion for **Machine Learning** and **Back-End Development**. I possess a solid foundation in core computer science concepts, strong problem-solving skills, and hands-on experience with software engineering principles. Selected as a **Machine Learning Ambassador** from 2,000+ applicants at GTC, and completed an **iOS Internship** at Banque Misr. 
+
+🔗 **Portfolio:** [https://ahmed-nasser-portfolio.vercel.app/](https://ahmed-nasser-portfolio.vercel.app/)
  
 - 🎯 **Current Focus:** Machine Learning & Backend Development  
 - 💡 **Interests:** AI/ML Innovation, Scalable Backend Systems 
@@ -170,6 +172,14 @@ Analysis:
   - Statistical pattern visualization 
   - Bias detection algorithms 
 ``` 
+
+---
+
+## 🌐 Portfolio
+
+Explore my full portfolio for projects, skills, and contact details:
+
+🔗 **[https://ahmed-nasser-portfolio.vercel.app/](https://ahmed-nasser-portfolio.vercel.app/)**
  
 ---
  
