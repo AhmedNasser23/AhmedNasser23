@@ -1,6 +1,6 @@
 <div align="center"> 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+I'm+Ahmed+Nasser+Hemdan;Computer+Science+Student;Software+Engineer+%7C+Backend+%26+ML" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+I'm+Ahmed+Hemdan;Computer+Science+Student;Software+Engineer+%7C+Backend+%26+ML" />
 
 <p align="center"> 
   <a href="mailto:ahmadhemdan280@gmail.com"> 
