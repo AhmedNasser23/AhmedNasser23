@@ -1,6 +1,6 @@
 <div align="center"> 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Ahmed+Nasser+Hemdan;Computer+Science+Student+%F0%9F%8E%93;Machine+Learning+Enthusiast+%F0%9F%A4%96;Backend+Developer+%E2%9A%99%EF%B8%8F" alt="Typing SVG" /> 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+I'm+Ahmed+Nasser+Hemdan;Computer+Science+Student;Software+Engineer+%7C+Backend+%26+ML" />
 
 <p align="center"> 
   <a href="mailto:ahmadhemdan280@gmail.com"> 
@@ -17,13 +17,16 @@
 
 ## 🚀 About Me
 
-Fourth-year **Computer Science student** at **Cairo University** with a strong passion for **Machine Learning** and **Back-End Development**. I possess a solid foundation in core computer science concepts, strong problem-solving skills, and hands-on experience with software engineering principles. Selected as a **Machine Learning Ambassador** from 2,000+ applicants at GTC, and completed an **iOS Internship** at Banque Misr.
+Fourth-year **Computer Science student** at **Cairo University** with strong foundations in **software engineering, backend development, and machine learning fundamentals**.
+I have hands-on experience building **production-ready backend systems**, implementing **data-driven applications**, and working with **core ML concepts** such as model evaluation and exploratory data analysis.
+Selected as a **Machine Learning Ambassador** from 2,000+ applicants at GTC, and previously completed an **iOS Internship** at Banque Misr.
+
 
 🔗 **Portfolio:** [https://ahmed-nasser-portfolio.vercel.app/](https://ahmed-nasser-portfolio.vercel.app/)
 
-- 🎯 **Current Focus:** Machine Learning & Backend Development
-- 💡 **Interests:** AI/ML Innovation, Scalable Backend Systems
-- 📚 **Education:** B.Sc. Computer Science @ Cairo University
+- 🎯 **Current Focus:** Backend Engineering & Machine Learning Systems  
+- 💡 **Interests:** Scalable Backend Systems, Data-Driven Applications, Applied ML  
+- 🎓 **Education:** B.Sc. in Computer Science — Cairo University  
 
 --- 
 
@@ -35,7 +38,7 @@ Fourth-year **Computer Science student** at **Cairo University** with a strong p
 
 ### Programming Languages & Web
 <p> 
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,swift,html,css,js&theme=dark" /> 
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,html,css,js&theme=dark" /> 
 </p> 
 
 ### Frameworks
@@ -58,7 +61,7 @@ Fourth-year **Computer Science student** at **Cairo University** with a strong p
 
 ### Tools & Operating Systems
 <p> 
-  <img src="https://skillicons.dev/icons?i=git,postman,vscode,linux,windows&theme=dark" /> 
+  <img src="https://skillicons.dev/icons?i=git,docker,postman,vscode,linux,windows&theme=dark" /> 
 </p> 
 
 ### Computer Science Fundamentals & Design
@@ -80,18 +83,18 @@ Fourth-year **Computer Science student** at **Cairo University** with a strong p
 📅 *Sep 2025 – Oct 2025*
 
 ```diff 
-+ Selected from 2,000+ applicants for prestigious ML ambassador role 
-+ Promoted Machine Learning knowledge sharing across the community   
-+ Supported AI/ML innovation events and workshops 
++ Selected from 2,000+ applicants to represent the ML community  
++ Participated in technical discussions and ML knowledge-sharing initiatives  
++ Supported peers in understanding core ML concepts and applications 
 ``` 
 
 **iOS Internship** @ **Banque Misr**   
 📅 *Aug 2024 – Sep 2024*
 
 ```diff 
-+ Built 15+ responsive views with UIKit following modern iOS design patterns 
-+ Achieved 30% reduction in task completion time through code optimization 
-+ Integrated RESTful APIs with Alamofire for seamless data management 
++ Developed production-level mobile features in an agile environment  
++ Integrated RESTful APIs for data-driven application behavior  
++ Improved usability and performance through iterative optimization  
 ``` 
  
 --- 
